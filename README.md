@@ -1,4 +1,4 @@
-### Example auth app
+### starter auth app
 
 this is a basic session based authentication app, this is to be cloned and used to build an application on top of it
 
